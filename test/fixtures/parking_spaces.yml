@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parking_space_id: 1
+  user_id: 1
+  vehicle_id: 1
+
+two:
+  parking_space_id: 1
+  user_id: 1
+  vehicle_id: 1
